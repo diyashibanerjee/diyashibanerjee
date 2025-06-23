@@ -46,14 +46,6 @@
 
 ---
 
-## 🌟 Side Quests (a.k.a. Projects)
-- 🏸 **Badminton Hub** – Your one-stop solution for court booking, jerseys & equipment using vb.net.
-- 🧾 **Leave Request System** – For government sector use, Flask + SQL backend, sleek frontend.
-- 👩‍💻 **Portfolio Website** – Work in progress...stay tuned, I’m building something bomb.
-
----
-
-
 ---
 
 **P.S.** If you like clean code and aesthetic UI, let’s collab and travel the techverse together 💻🌏
