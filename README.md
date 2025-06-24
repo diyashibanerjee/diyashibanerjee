@@ -37,7 +37,12 @@
 </p>
 
 ---
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=diyashibanerjee&layout=compact&theme=tokyonight&langs_count=6&"
+    alt="diyashibanerjee's top languages"
+  />
+</p>
 ---
 
 ## 🐍 Contribution Snake
