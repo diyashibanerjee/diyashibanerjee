@@ -54,4 +54,4 @@
 
 ---
 
-**P.S.** If you like clean code and aesthetic UI, let’s collab and travel the techverse together 💻🌏
+**P.S.** If you like clean code and aesthetic UI, let’s collab and travel the techverse together💻🌏
