@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dev-diyashi&color=brightgreen)
 
 ## 💡 About Me
-🧳 Traveller who codes between flights.  
+🧳 Traveller who codes between flights. 
 💻 Full-stack dev in the making.  
 🚀 Building Badminton Hub, leave systems, and my empire.  
 🎨 I turn coffee and bugs into magic & design.
