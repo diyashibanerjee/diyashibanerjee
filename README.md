@@ -37,13 +37,13 @@
 </p>
 
 ---
+## 📊 Top Languages
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=diyashibanerjee&layout=compact&theme=tokyonight&langs_count=6&"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=diyashibanerjee&layout=compact&theme=tokyonight&langs_count=6&v=2"
     alt="diyashibanerjee's top languages"
   />
 </p>
----
 
 ## 🐍 Contribution Snake
 ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
